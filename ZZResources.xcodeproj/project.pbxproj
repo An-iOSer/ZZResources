@@ -13,11 +13,11 @@
 		3A88249921F6A3BE00C7C528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A88249821F6A3BE00C7C528 /* Assets.xcassets */; };
 		3A88249C21F6A3BE00C7C528 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A88249A21F6A3BE00C7C528 /* LaunchScreen.storyboard */; };
 		3A88249F21F6A3BE00C7C528 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A88249E21F6A3BE00C7C528 /* main.m */; };
-		E42DBDAE22373A8B00FA6F23 /* 混合.GIF in Resources */ = {isa = PBXBuildFile; fileRef = E42DBDAD22373A8B00FA6F23 /* 混合.GIF */; };
-		E42DBDB122373A9700FA6F23 /* 星星评价.GIF in Resources */ = {isa = PBXBuildFile; fileRef = E42DBDB022373A9700FA6F23 /* 星星评价.GIF */; };
-		E4E63385222F72B900C8AADB /* 垂直.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4E63382222F72B900C8AADB /* 垂直.gif */; };
-		E4E63386222F72B900C8AADB /* 浮动.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4E63383222F72B900C8AADB /* 浮动.gif */; };
-		E4E63387222F72B900C8AADB /* 水平.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4E63384222F72B900C8AADB /* 水平.gif */; };
+		E4F1D77A22C50BAA0055DC8B /* 垂直.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D77922C50BAA0055DC8B /* 垂直.gif */; };
+		E4F1D77C22C50BE30055DC8B /* 星星评价.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D77B22C50BE30055DC8B /* 星星评价.gif */; };
+		E4F1D77E22C50BEF0055DC8B /* 混合.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D77D22C50BEF0055DC8B /* 混合.gif */; };
+		E4F1D78022C50BFC0055DC8B /* 浮动.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D77F22C50BFC0055DC8B /* 浮动.gif */; };
+		E4F1D78222C50CEF0055DC8B /* 水平.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D78122C50CEF0055DC8B /* 水平.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,11 +31,11 @@
 		3A88249B21F6A3BE00C7C528 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A88249D21F6A3BE00C7C528 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A88249E21F6A3BE00C7C528 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E42DBDAD22373A8B00FA6F23 /* 混合.GIF */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "混合.GIF"; sourceTree = "<group>"; };
-		E42DBDB022373A9700FA6F23 /* 星星评价.GIF */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "星星评价.GIF"; sourceTree = "<group>"; };
-		E4E63382222F72B900C8AADB /* 垂直.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "垂直.gif"; sourceTree = "<group>"; };
-		E4E63383222F72B900C8AADB /* 浮动.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "浮动.gif"; sourceTree = "<group>"; };
-		E4E63384222F72B900C8AADB /* 水平.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "水平.gif"; sourceTree = "<group>"; };
+		E4F1D77922C50BAA0055DC8B /* 垂直.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "垂直.gif"; sourceTree = "<group>"; };
+		E4F1D77B22C50BE30055DC8B /* 星星评价.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "星星评价.gif"; sourceTree = "<group>"; };
+		E4F1D77D22C50BEF0055DC8B /* 混合.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "混合.gif"; sourceTree = "<group>"; };
+		E4F1D77F22C50BFC0055DC8B /* 浮动.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "浮动.gif"; sourceTree = "<group>"; };
+		E4F1D78122C50CEF0055DC8B /* 水平.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "水平.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +94,10 @@
 		3A8824A821F6A3E100C7C528 /* ZZLayout */ = {
 			isa = PBXGroup;
 			children = (
-				E4E63382222F72B900C8AADB /* 垂直.gif */,
-				E4E63383222F72B900C8AADB /* 浮动.gif */,
-				E4E63384222F72B900C8AADB /* 水平.gif */,
-				E42DBDAD22373A8B00FA6F23 /* 混合.GIF */,
+				E4F1D77922C50BAA0055DC8B /* 垂直.gif */,
+				E4F1D77F22C50BFC0055DC8B /* 浮动.gif */,
+				E4F1D77D22C50BEF0055DC8B /* 混合.gif */,
+				E4F1D78122C50CEF0055DC8B /* 水平.gif */,
 			);
 			path = ZZLayout;
 			sourceTree = "<group>";
@@ -105,7 +105,7 @@
 		E42DBDAF22373A8D00FA6F23 /* ZZStarView */ = {
 			isa = PBXGroup;
 			children = (
-				E42DBDB022373A9700FA6F23 /* 星星评价.GIF */,
+				E4F1D77B22C50BE30055DC8B /* 星星评价.gif */,
 			);
 			path = ZZStarView;
 			sourceTree = "<group>";
@@ -167,12 +167,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E4E63386222F72B900C8AADB /* 浮动.gif in Resources */,
-				E42DBDAE22373A8B00FA6F23 /* 混合.GIF in Resources */,
-				E4E63385222F72B900C8AADB /* 垂直.gif in Resources */,
+				E4F1D78022C50BFC0055DC8B /* 浮动.gif in Resources */,
+				E4F1D78222C50CEF0055DC8B /* 水平.gif in Resources */,
+				E4F1D77A22C50BAA0055DC8B /* 垂直.gif in Resources */,
+				E4F1D77C22C50BE30055DC8B /* 星星评价.gif in Resources */,
 				3A88249C21F6A3BE00C7C528 /* LaunchScreen.storyboard in Resources */,
-				E4E63387222F72B900C8AADB /* 水平.gif in Resources */,
-				E42DBDB122373A9700FA6F23 /* 星星评价.GIF in Resources */,
+				E4F1D77E22C50BEF0055DC8B /* 混合.gif in Resources */,
 				3A88249921F6A3BE00C7C528 /* Assets.xcassets in Resources */,
 				3A88249721F6A3BE00C7C528 /* Main.storyboard in Resources */,
 			);
