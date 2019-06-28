@@ -13,7 +13,7 @@
 		3A88249921F6A3BE00C7C528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A88249821F6A3BE00C7C528 /* Assets.xcassets */; };
 		3A88249C21F6A3BE00C7C528 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A88249A21F6A3BE00C7C528 /* LaunchScreen.storyboard */; };
 		3A88249F21F6A3BE00C7C528 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A88249E21F6A3BE00C7C528 /* main.m */; };
-		E401C0D322C66A8F00AFAE41 /* 星星评价.gif in Resources */ = {isa = PBXBuildFile; fileRef = E401C0D222C66A8F00AFAE41 /* 星星评价.gif */; };
+		E471902222C66C1600B86934 /* 星星评价.gif in Resources */ = {isa = PBXBuildFile; fileRef = E471902122C66C1600B86934 /* 星星评价.gif */; };
 		E4F1D77E22C50BEF0055DC8B /* 混合.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D77D22C50BEF0055DC8B /* 混合.gif */; };
 		E4F1D78022C50BFC0055DC8B /* 浮动.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D77F22C50BFC0055DC8B /* 浮动.gif */; };
 		E4F1D78222C50CEF0055DC8B /* 水平.gif in Resources */ = {isa = PBXBuildFile; fileRef = E4F1D78122C50CEF0055DC8B /* 水平.gif */; };
@@ -31,7 +31,7 @@
 		3A88249B21F6A3BE00C7C528 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A88249D21F6A3BE00C7C528 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3A88249E21F6A3BE00C7C528 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E401C0D222C66A8F00AFAE41 /* 星星评价.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "星星评价.gif"; sourceTree = "<group>"; };
+		E471902122C66C1600B86934 /* 星星评价.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "星星评价.gif"; sourceTree = "<group>"; };
 		E4F1D77D22C50BEF0055DC8B /* 混合.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "混合.gif"; sourceTree = "<group>"; };
 		E4F1D77F22C50BFC0055DC8B /* 浮动.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "浮动.gif"; sourceTree = "<group>"; };
 		E4F1D78122C50CEF0055DC8B /* 水平.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "水平.gif"; sourceTree = "<group>"; };
@@ -105,7 +105,7 @@
 		E42DBDAF22373A8D00FA6F23 /* ZZStarView */ = {
 			isa = PBXGroup;
 			children = (
-				E401C0D222C66A8F00AFAE41 /* 星星评价.gif */,
+				E471902122C66C1600B86934 /* 星星评价.gif */,
 			);
 			path = ZZStarView;
 			sourceTree = "<group>";
@@ -172,7 +172,7 @@
 				E4F1D78222C50CEF0055DC8B /* 水平.gif in Resources */,
 				3A88249C21F6A3BE00C7C528 /* LaunchScreen.storyboard in Resources */,
 				E4F1D77E22C50BEF0055DC8B /* 混合.gif in Resources */,
-				E401C0D322C66A8F00AFAE41 /* 星星评价.gif in Resources */,
+				E471902222C66C1600B86934 /* 星星评价.gif in Resources */,
 				3A88249921F6A3BE00C7C528 /* Assets.xcassets in Resources */,
 				3A88249721F6A3BE00C7C528 /* Main.storyboard in Resources */,
 			);
